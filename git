@@ -1,0 +1,2 @@
+      PID    PPID    PGID     WINPID   TTY         UID    STIME COMMAND
+     1700       1    1700      27672  cons0     197609 18:37:18 /usr/bin/ps
